@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "zarvone-smp",
+    "email": "rinzzeyy@gmail.com"
+  },
+  "description": "ZORVANE STORE",
+  "record": {
+    "CNAME": "zorvane-store.netlify.app"
+  },
+  "proxied": false
+}
